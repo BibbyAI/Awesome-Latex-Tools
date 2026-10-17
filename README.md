@@ -16,3 +16,13 @@ The ultimate environment for data scientists, mathematicians, and researchers wh
 A sleek, fast, and heavily AI-integrated cloud workspace for authors who want powerful inline editing without the clutter.
 * **Why Researchers Trust It:** It focuses purely on writing flow and intelligent refinements, offering a clean alternative to legacy editors while maintaining strict control over document history.
 * **Standout Features:** "Agent K" for aggressive inline text refinement, smart side-by-side visual diffs for reviewing AI suggestions before applying them, and fast image-to-equation generation.
+
+### 4. [Mathpix Snipping Tool](https://mathpix.com/)
+The go-to solution for converting handwritten notes, screenshots, and printed documents into LaTeX, MathML, and more.
+* **Why Researchers Trust It:** Industry standard for converting math-heavy documents to LaTeX. Used by millions of researchers worldwide.
+* **Standout Features:** Handwriting recognition, PDF to LaTeX conversion, MathML support, and API access for automation.
+
+### 5. [Jasper](https://www.jasper.ai/)
+AI writing assistant with strong LaTeX support for academic and technical writing.
+* **Why Researchers Trust It:** Strong template library and tone adjustment for academic writing.
+* **Standout Features:** Templates for abstracts, introductions, and conclusions, plagiarism checker, and team collaboration.
