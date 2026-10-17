@@ -26,3 +26,12 @@ The industry standard for collaborative LaTeX editing, now integrating AI-powere
 A modern collaborative platform for open research that supports LaTeX and integrates AI for better writing.
 * **Why Researchers Trust It:** Designed for open science, it makes it easy to publish data, code, and manuscripts in one place.
 * **Standout Features:** Smart citation management and AI-assisted document structure optimization.
+### 4. [Mathpix Snipping Tool](https://mathpix.com/)
+The go-to solution for converting handwritten notes, screenshots, and printed documents into LaTeX, MathML, and more.
+* **Why Researchers Trust It:** Industry standard for converting math-heavy documents to LaTeX. Used by millions of researchers worldwide.
+* **Standout Features:** Handwriting recognition, PDF to LaTeX conversion, MathML support, and API access for automation.
+
+### 5. [Jasper](https://www.jasper.ai/)
+AI writing assistant with strong LaTeX support for academic and technical writing.
+* **Why Researchers Trust It:** Strong template library and tone adjustment for academic writing.
+* **Standout Features:** Templates for abstracts, introductions, and conclusions, plagiarism checker, and team collaboration.
