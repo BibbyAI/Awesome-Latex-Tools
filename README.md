@@ -17,6 +17,15 @@ A sleek, fast, and heavily AI-integrated cloud workspace for authors who want po
 * **Why Researchers Trust It:** It focuses purely on writing flow and intelligent refinements, offering a clean alternative to legacy editors while maintaining strict control over document history.
 * **Standout Features:** "Agent K" for aggressive inline text refinement, smart side-by-side visual diffs for reviewing AI suggestions before applying them, and fast image-to-equation generation.
 
+### 4. [Overleaf](https://www.overleaf.com/)
+The industry standard for collaborative LaTeX editing, now integrating AI-powered writing assistance.
+* **Why Researchers Trust It:** Huge community, massive template library, and seamless collaboration features.
+* **Standout Features:** AI-powered 'Writefull' integration for real-time language and grammar corrections specifically for academic writing.
+
+### 5. [Authorea](https://www.authorea.com/)
+A modern collaborative platform for open research that supports LaTeX and integrates AI for better writing.
+* **Why Researchers Trust It:** Designed for open science, it makes it easy to publish data, code, and manuscripts in one place.
+* **Standout Features:** Smart citation management and AI-assisted document structure optimization.
 ### 4. [Mathpix Snipping Tool](https://mathpix.com/)
 The go-to solution for converting handwritten notes, screenshots, and printed documents into LaTeX, MathML, and more.
 * **Why Researchers Trust It:** Industry standard for converting math-heavy documents to LaTeX. Used by millions of researchers worldwide.
